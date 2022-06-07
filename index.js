@@ -8,3 +8,7 @@ const num3 = 24;
 const num4 = 10;
 const mod = num3 % num4;
 const max = Math.max(2, 4, 20, 11, 8);
+
+const age = 6;
+const isAdult = age >= 18;
+isAdult; //=> ___
